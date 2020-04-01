@@ -3,20 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+> 안녕하세요. 인천대학교 정보통신공학과 재학중인 19학번 박상진입니다.
 
-Hello World
+~~~
+(2020.04.02 기준)
+리그오브레전드 티어 골드 4
 
+전략적 팀 전투 (TFT) 티어 골드 2
 
+카트라이더 무지개 금메달, 라이센스 L1
+~~~
+게임 실력이 그리 좋지는 못하지만 하는건 많이 좋아합니다
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+야구, 축구 웬만한 스포츠 다 좋아하는 편입니다
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+김광현 손흥민 화이팅
