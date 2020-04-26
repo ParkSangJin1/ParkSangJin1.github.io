@@ -298,7 +298,7 @@ public class Frame {
 
 ## 실행 결과
 
-![스크린샷 2020-04-26 오후 6.07.01](/Users/Juhee/Desktop/스크린샷 2020-04-26 오후 6.07.01.png)
+![스크린샷 2020-04-26 오후 6.07.01](https://postfiles.pstatic.net/MjAyMDA0MjZfMTc1/MDAxNTg3ODkzOTE0OTc2.Cx1pPgjHIidG2-YSDegIZ2273qlWH3XbLBof68Zg0CEg.wG5xPsGi_pbv2j1IQ45suRKtuR56--Wim04uqiuRCKEg.PNG.tkdwls466/스크린샷_2020-04-26_오후_6.07.01.png?type=w773)
 
 
 
